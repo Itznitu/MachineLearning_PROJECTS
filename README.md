@@ -4,18 +4,20 @@ Machine Learning with Python: Linear Regression (1 Variable)
 
 📌 Project Objective
 --------------------
-Build a simple yet powerful machine learning model to predict house prices based on the square feet area using Linear Regression.
-
+1.Build a simple yet powerful machine learning model to predict house prices based on the square feet area using Linear Regression.
+2.Build a simple yet powerful machine learning model to predict canada per capita income in 2020 using Linear Regression.
 📂 Dataset
 ----------
-The project uses a dataset `houseprice.csv`, which contains:
+The project1 uses a dataset `houseprice.csv`, which contains:
 - Input: Square feet area of a house
 - Output: Corresponding house price
-
+The project2 uses dataset 'canada_per_capita_income',which conatins:
+-year per year
+-income
 📝 Problem Statement:
 ---------------------
 Given the dataset, build a model that accurately predicts home prices based on the size of the house in square feet.
-
+Given the dataset, build a model that accurately predicts canada  per capita income in  the year 2020 
 🛠️ Tools & Technologies Used
 ----------------------------
 - Platform: JupyterLite

@@ -1,4 +1,4 @@
-"""
+
 Machine Learning with Python: Linear Regression (1 Variable)
 ------------------------------------------------------------
 
